@@ -1,0 +1,21 @@
+#time{
+	position: absolute;
+	left: 45%;
+	top: 45%;
+	font-family: Comic Sans MS;
+	background-color: white;
+	display: block;
+}
+
+#greeting{
+	font-family: Comic Sans MS;
+	font-size: 32px;
+	font-style: bold;
+	background-color: white;
+	display: inline-block;
+}
+body{
+	display: block;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
